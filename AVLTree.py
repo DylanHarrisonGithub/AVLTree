@@ -1,4 +1,3 @@
-from graphics import *
 
 class AVLTreeNode(object):
 

@@ -1,4 +1,3 @@
-from graphics import *
 
 class BTreeNode(object):
 
